@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/eris-ltd/eris-cli/cmd/eris?status.png)](https://godoc.org/github.com/eris-ltd/eris-cli/cmd/eris)
 
-# Eris
+# Eris000
 
 The Distributed Application Platform.
 
